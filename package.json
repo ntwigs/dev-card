@@ -1,11 +1,11 @@
 {
-  "name": "parcel-sandbox",
+  "name": "card",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
+  "description": "Personal digital business card",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open"
   },
   "dependencies": {
     "animejs": "3.1.0",
